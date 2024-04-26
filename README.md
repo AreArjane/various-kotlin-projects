@@ -1,17 +1,17 @@
-#Kotlin Projects README
+# Kotlin Projects README
 
 This repository contains two distinct projects developed in Kotlin: Temperature Converter and Grocery List App. These projects showcase different functionalities and are excellent for understanding basic operations in Kotlin and Android development.
 
-##Temperature Converter
+## Temperature Converter
 
 The Temperature Converter is a Kotlin class designed to perform temperature conversions between Celsius, Fahrenheit, and Kelvin.
 
-###Features
+### Features
 Converts temperatures between Celsius, Fahrenheit, and Kelvin.
 Requirements
-###Kotlin compiler
+### Kotlin compiler
 IDE that supports Kotlin (IntelliJ IDEA, Android Studio)
-###Usage
+### Usage
 Below are examples of how to use the ConverterModel for various temperature conversions
 ```
 val converter = ConverterModel()
@@ -21,24 +21,24 @@ println("Celsius: ${results.first}, Fahrenheit: ${results.second}, Kelvin: ${res
 ```
 
 
-##Grocery List App
+## Grocery List App
 
 An Android application that allows users to manage a grocery list, including adding, deleting, and clearing items.
 
-###Features
+### Features
 Add items to a grocery list.
 Select and delete multiple items.
 Clear all items from the list.
-###Requirements
+### Requirements
 Android SDK
 Android Studio
-###Installation
+### Installation
 Follow these steps to get the app running:
 
 Clone the repository:
 
 
-###Usage
+### Usage
 Interact with the grocery list using the UI components:
 
 Adding an Item:
